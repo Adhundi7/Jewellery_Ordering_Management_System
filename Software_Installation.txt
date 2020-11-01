@@ -1,0 +1,8 @@
+Please follow the below steps to install the WAMP Infrastructure:
+
+1. Download the wampserver3.1.7_x64 from the Web
+2. Install the WAMP environment and make sure that the server is running.
+3. Copy the PHP files in the C:\wamp64\www folder
+4. Start the WAMP server, connect to the SQL 
+5. Copy paste the SQL code, Run it
+6. Directly using PhpMyAdmin Run the Php scripts for the UI.
